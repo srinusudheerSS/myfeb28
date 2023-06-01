@@ -5,5 +5,6 @@ java codes
 3rd line code of java bu sudheer banglore
 4th line code of java by srinu hyd
 5th line code of java by srinu hyd
-
+6th line code of java by sudheer banglore
+7th line code of java by srinu hyd
 
